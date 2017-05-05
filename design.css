@@ -5,6 +5,11 @@ body {
 p {
 	color: red;
 }
+
 h1 {
 	color: yellow;
 }
+
+h2 {
+	font-size: 20em; 
+ }
